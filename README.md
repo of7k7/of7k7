@@ -17,8 +17,6 @@
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="25" alt="cPP logo"  />
 
-  <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/csharp/csharp-original.svg" height="25" alt="c# logo"  />
 
 </div>
 
